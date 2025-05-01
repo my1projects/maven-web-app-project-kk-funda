@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to KK Devops with AWS</h1>
-<h1 align="center"> Devops integration of Jenkins  </h1>
+<h1 align="center"> Devops integration of Jenkins CI  </h1>
 <h1 align="center"> GitHub webhooks integration with Jenkins to automate builds  </h1>
 <hr>
 <br>
